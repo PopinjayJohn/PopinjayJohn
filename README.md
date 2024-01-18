@@ -1,4 +1,6 @@
-Doing work on my own schedule, frequently away due to laziness.
+Updates available upon request, frequently away due to laziness.
 
-- I've got 99 project, i'm done with them all.
-- Tag me if you want and i'll probably respond.
+|Scoop buckets | |
+|--------------|-|
+| [PJ_versions](https://github.com/PopinjayJohn/PJ_versions) | Additional versions |
+|PJ_extras| Additional apps
